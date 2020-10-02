@@ -18,5 +18,10 @@
     "name": "simonsolberg",
     "text": "Hi Hacktoberfest",
     "cart": 3
-  }  
+  },
+  {
+    "name": "stmoerman",
+    "text": "Control Alt Elite!",
+    "cart": 4
+  }
 ]
